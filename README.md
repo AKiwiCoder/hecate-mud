@@ -1,1 +1,2 @@
-# hecate-mud
+# Hecate MUD
+
