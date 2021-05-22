@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.arrggh</groupId>
-    <artifactId>hecate</artifactId>
+    <artifactId>hecate-mud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hecate-mud</name>
     <description>Demo project for Spring Boot</description>
