@@ -1,2 +1,7 @@
 language: java
 jdk: openjdk16
+addons:
+  sonarcloud:
+    organization: "akiwicoder"
+script:
+  - mvn clean verify sonar:sonar -Pcoverage -Dsonar.projectKey=hecate-mud
